@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ISS PoC</string>
+    <string name="title_activity_files">Files</string>
+    <string name="a_majestic_frog_parrot_hybrid">A majestic frog-parrot hybrid</string>
+    <string name="reduced_jpg">_reduced.jpg</string>
+    <string name="iss_poc">ISS PoC</string>
+    <string name="image_failed_to_load">Image failed to load</string>
+    <string name="pull_snapshots">Pull Snapshots</string>
+    <string name="pick_snapshot">Pick Snapshot</string>
+    <string name="insecure_state_transition_poc">Insecure State Transition PoC</string>
+</resources>
